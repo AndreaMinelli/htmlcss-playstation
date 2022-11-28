@@ -40,6 +40,10 @@ main {
     padding-top: 100px;
 }
 
+img {
+    max-width: 100%;
+}
+
 h1 {
     font-size: 37px;
 }
@@ -96,6 +100,14 @@ h1 {
 
 .jumbotron-top figure {
     width: 50%;
+}
+
+.jumbotron-bottom figure {
+    padding: 3px;
+}
+
+.jumbotron-bottom img {
+    border-radius: 0.7rem;
 }
 
 /* # VISUALIZZAZIONE SM */
