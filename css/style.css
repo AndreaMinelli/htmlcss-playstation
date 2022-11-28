@@ -104,6 +104,7 @@ h1 {
 
 .jumbotron-bottom figure {
     padding: 3px;
+    cursor: pointer;
 }
 
 .jumbotron-bottom img {
