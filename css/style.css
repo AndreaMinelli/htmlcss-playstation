@@ -1,0 +1,28 @@
+/* Utils */
+
+.brd {
+    border: 1px solid red;
+}
+
+
+/* General */
+
+header {
+    min-height: 80px;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1;
+}
+
+/* Header */
+
+.header-top {
+    background-color: black;
+    height: 30px;
+}
+
+.header-bottom .navbar {
+    background-color: white;
+}
