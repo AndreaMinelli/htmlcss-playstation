@@ -27,7 +27,7 @@ header {
 }
 
 main {
-    padding-top: 80px;
+    padding-top: 100px;
 }
 
 /* Header */
@@ -43,8 +43,12 @@ main {
 }
 
 .header-bottom .navbar {
-    height: 50px;
+    height: 70px;
     background-color: white;
+}
+
+.header-bottom .logo {
+    width: 50px;
 }
 
 /* Jumbotron */
