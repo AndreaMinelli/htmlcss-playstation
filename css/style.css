@@ -5,6 +5,12 @@
 }
 
 
+.immagini {
+    height: 50px;
+    background-color: dodgerblue;
+}
+
+
 /* General */
 
 section {
@@ -41,10 +47,4 @@ main {
 .jumbotron-top {
     height: 300px;
 
-}
-
-
-#jumbotron [class*="row-cols"] .immagini {
-    height: 50px;
-    background-color: dodgerblue;
 }
