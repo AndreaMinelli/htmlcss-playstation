@@ -48,3 +48,12 @@ main {
     height: 300px;
 
 }
+
+@media screen and (min-width:576px) {
+    /* Our Social */
+
+    #our-social .col {
+        width: 120px;
+    }
+
+}
