@@ -34,7 +34,12 @@ main {
 
 .header-top {
     background-color: black;
+}
+
+.header-top figure {
+    width: 80px;
     height: 30px;
+    margin-bottom: 0;
 }
 
 .header-bottom .navbar {
