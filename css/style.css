@@ -7,13 +7,21 @@
 
 /* General */
 
+section {
+    min-height: 400px;
+}
+
 header {
-    min-height: 80px;
+    height: 80px;
     position: fixed;
     top: 0;
     right: 0;
     left: 0;
     z-index: 1;
+}
+
+main {
+    padding-top: 80px;
 }
 
 /* Header */
@@ -24,5 +32,19 @@ header {
 }
 
 .header-bottom .navbar {
+    height: 50px;
     background-color: white;
+}
+
+/* Jumbotron */
+
+.jumbotron-top {
+    height: 300px;
+
+}
+
+
+#jumbotron [class*="row-cols"] .immagini {
+    height: 50px;
+    background-color: dodgerblue;
 }
