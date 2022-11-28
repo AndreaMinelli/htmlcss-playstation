@@ -94,11 +94,28 @@ h1 {
     background-repeat: no-repeat;
 }
 
+.jumbotron-top figure {
+    width: 50%;
+}
+
+/* # VISUALIZZAZIONE SM */
+
 @media screen and (min-width:576px) {
     /* Our Social */
 
     #our-social .col {
         width: 120px;
+    }
+
+}
+
+/* # VISUALIZZAZIONE LG */
+
+@media screen and (min-width:992px) {
+    /* Jumbotron */
+
+    .jumbotron-top figure {
+        width: 75%;
     }
 
 }
