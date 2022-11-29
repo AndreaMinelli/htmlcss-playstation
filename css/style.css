@@ -154,6 +154,11 @@ h2 {
     background-color: rgb(190, 188, 187);
 }
 
+#ps-plus .btn-light {
+    background-color: rgba(255, 255, 255, 0.6);
+    border-color: transparent;
+}
+
 /* # VISUALIZZAZIONE SM */
 
 @media screen and (min-width:576px) {
