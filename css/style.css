@@ -133,7 +133,7 @@ h1 {
 
 #new-games .new-games-top {
     background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
-    height: 500px;
+    min-height: 450px;
 }
 
 /* # VISUALIZZAZIONE SM */
