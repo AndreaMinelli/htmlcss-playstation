@@ -7,7 +7,6 @@
 .btn.btn-warning {
     background-color: rgb(205, 61, 15);
     border-color: rgb(205, 61, 15);
-    ;
 }
 
 .w-60 {
@@ -120,6 +119,7 @@ h2 {
 .jumbotron-bottom figure {
     padding: 3px;
     cursor: pointer;
+    transition: transform 0.5s;
 }
 
 .jumbotron-bottom img {
@@ -183,6 +183,15 @@ footer a {
 footer p {
     font-size: 14px;
 }
+
+/* Hover Effect */
+
+/* Transition Jumbotron Bottom */
+
+.jumbotron-bottom figure:hover {
+    transform: translateY(-10px);
+}
+
 
 /* # VISUALIZZAZIONE SM */
 
