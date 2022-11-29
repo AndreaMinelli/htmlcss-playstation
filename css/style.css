@@ -80,10 +80,6 @@ h2 {
     width: 50px;
 }
 
-.header-bottom .nav-link {
-    color: black;
-}
-
 .header-bottom .nav-link::after {
     content: '';
     display: inline-block;
@@ -190,6 +186,10 @@ footer p {
 }
 
 /* Hover Effect */
+
+/* Scurimento link navbar header */
+
+
 
 /* Transition Jumbotron Bottom */
 
