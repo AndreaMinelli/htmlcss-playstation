@@ -48,6 +48,10 @@ h1 {
     font-size: calc(1.7rem + 1.5vw);
 }
 
+h2 {
+    font-size: calc(1.7rem + .9vw);
+}
+
 .subtitle {
     color: rgb(120, 120, 120);
     font-size: 1.2rem;
