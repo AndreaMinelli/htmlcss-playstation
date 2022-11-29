@@ -19,16 +19,6 @@
     border: 1px solid red;
 }
 
-
-.immagini {
-    height: 50px;
-    background-color: dodgerblue;
-}
-
-/* section {
-    min-height: 400px;
-} */
-
 /* General */
 
 header {
@@ -176,6 +166,17 @@ h2 {
 
     #our-social .col {
         width: 120px;
+    }
+
+}
+
+/* # VISUALIZZAZIONE MD */
+
+@media screen and (min-width:768px) {
+    /* Our Social */
+
+    #our-social .col {
+        width: 160px;
     }
 
 }
