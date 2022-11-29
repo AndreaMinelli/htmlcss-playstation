@@ -120,6 +120,12 @@ h1 {
     border-radius: 0.7rem;
 }
 
+/* New Console */
+
+#new-console .opacity-cust {
+    opacity: 0.6;
+}
+
 /* # VISUALIZZAZIONE SM */
 
 @media screen and (min-width:576px) {
