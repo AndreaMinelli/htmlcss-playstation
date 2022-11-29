@@ -128,8 +128,13 @@ h2 {
 
 /* New Console */
 
-#new-console .opacity-cust {
+.new-console-bottom .effect-cust {
     opacity: 0.6;
+    border-bottom: 2px solid transparent;
+}
+
+.new-console-bottom .col {
+    cursor: pointer;
 }
 
 /* New Games */
@@ -190,6 +195,13 @@ footer p {
 
 .jumbotron-bottom figure:hover {
     transform: translateY(-10px);
+}
+
+/* Effetto Opacità New Console */
+
+#new-console .effect-cust:hover {
+    opacity: 1;
+    border-color: #0d6efd;
 }
 
 
