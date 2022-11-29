@@ -10,6 +10,10 @@
     ;
 }
 
+.w-60 {
+    width: 60%;
+}
+
 /* TODO DA ELIMINARE */
 .brd {
     border: 1px solid red;
@@ -157,6 +161,12 @@ h2 {
 #ps-plus .btn-light {
     background-color: rgba(255, 255, 255, 0.6);
     border-color: transparent;
+}
+
+/* PS Now */
+
+#ps-now {
+    background-color: rgb(22, 28, 59);
 }
 
 /* # VISUALIZZAZIONE SM */
