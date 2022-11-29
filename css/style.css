@@ -99,12 +99,15 @@ h1 {
 
 /* Jumbotron */
 
-.jumbotron-top {
-    height: 600px;
-    background-image: url(../img/jumbo-bg.png);
+.jumbotron {
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
+}
+
+.jumbotron-top {
+    background-image: url(../img/jumbo-bg.png);
+    height: 600px;
 }
 
 .jumbotron-top figure {
