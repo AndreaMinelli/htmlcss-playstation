@@ -21,9 +21,9 @@
     background-color: dodgerblue;
 }
 
-section {
+/* section {
     min-height: 400px;
-}
+} */
 
 /* General */
 
@@ -146,6 +146,12 @@ h2 {
 
 .new-games-bottom img {
     border-radius: 1rem;
+}
+
+/* PS Plus */
+
+#ps-plus {
+    background-color: rgb(190, 188, 187);
 }
 
 /* # VISUALIZZAZIONE SM */
