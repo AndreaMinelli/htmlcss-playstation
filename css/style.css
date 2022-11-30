@@ -89,6 +89,15 @@ h2 {
     background-size: cover;
 }
 
+.header-bottom .nav-link:hover::after {
+    content: '';
+    display: inline-block;
+    height: 10px;
+    width: 10px;
+    background-image: url(../img/chevron-down-solid-hover.svg);
+    background-size: cover;
+}
+
 .header-bottom button.search {
     background-color: white;
     border: none;
