@@ -237,6 +237,11 @@ h2 {
     border-radius: 1rem;
 }
 
+.new-games-bottom img,
+.new-games-bottom p {
+    cursor: pointer;
+}
+
 /* PS Plus */
 
 #ps-plus {
