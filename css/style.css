@@ -228,6 +228,10 @@ footer a {
     line-height: 2rem;
 }
 
+footer a:hover {
+    color: white;
+}
+
 footer p {
     font-size: 14px;
 }
